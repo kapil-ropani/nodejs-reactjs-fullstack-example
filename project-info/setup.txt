@@ -1,0 +1,9 @@
+1 - Frontend folder name: react-visualizer
+ 	-> Run "npm install && npm start"
+	-> Port 3000 is reserved for server
+2 - Backend server.js only one file in the root
+	-> Run "npm install && npm start"
+	-> Port 8000 is reserved for frontend
+	-> Please also enalble CORS plugin
+
+I have also attached the API collection in the project info folder.
